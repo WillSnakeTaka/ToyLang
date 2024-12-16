@@ -12,6 +12,10 @@ ToyLang is a simple interpreter for a toy programming language written in Python
 - **Unary Negation**: Handles unary negation with `-`.
 
 ---
+## Output
+Below is an image showing the result when running the interpreter:
+
+![Example Output](output.png)
 
 ## Example Usage
 
@@ -21,7 +25,6 @@ x = 1;
 y = 2;
 z = ---(x + y) * (x + -y);
 '''
-### Output
-![Example Output](output.png)
+
 
 
