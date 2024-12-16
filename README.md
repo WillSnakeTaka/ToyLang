@@ -20,3 +20,8 @@ ToyLang is a simple interpreter for a toy programming language written in Python
 x = 1;
 y = 2;
 z = ---(x + y) * (x + -y);
+
+### Output
+![Example Output](output.png)
+
+
